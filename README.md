@@ -7,6 +7,8 @@ Repro of https://github.com/foundry-rs/foundry/issues/5847
 - forge install
 - cd lib/optimism/packages/contracts-bedrock/
 
+Compiling takes a loooooooong time
+
 To bind with Ethers
 
 - forge bind
