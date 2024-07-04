@@ -9,7 +9,7 @@ Repro of https://github.com/foundry-rs/foundry/issues/5847
 
 To bind with Ethers
 
-- forge bind / forge bind --alloy
+- forge bind
 
 To bind with Alloy
 
